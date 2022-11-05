@@ -1,7 +1,7 @@
-# Ex-08-Data-Visualization-
+# Ex-07-Data-Visualization-
 
 ## AIM
-To Perform Data Visualization on a complex dataset and save the data to a file. 
+To Perform Data Visualization on the given dataset and save the data to a file. 
 
 # Explanation
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
